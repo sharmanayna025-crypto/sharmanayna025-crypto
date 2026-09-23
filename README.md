@@ -12,7 +12,7 @@ systems at the intersection of software engineering, AI, and cybersecurity.
 
 **🧠 Currently learning:** cloud infrastructure (AWS), advanced system design, production-grade backend architecture
 
-**🛠️ Stack:** Java · Spring Boot · React · TypeScript · Python · PostgreSQL · JWT/Spring Security · OpenAI & Gemini APIs
+**🛠️ Stack:** Java · Spring Boot · React · TypeScript · Python · PostgreSQL · JWT/Spring Security · OpenAI & Gemini APIs · Tailwind CSS
 
 **🤝 Open to:** open-source contributions, research-oriented projects, and anything that forces me to learn something hard
 
